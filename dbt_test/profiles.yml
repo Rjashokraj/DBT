@@ -1,0 +1,11 @@
+dbt_test:
+  outputs:
+    dev:
+      catalog: dbt
+      host: dbc-dc8fd9d5-69dc.cloud.databricks.com
+      http_path: /sql/1.0/warehouses/c8abe120ba90c443
+      schema: default
+      threads: 1
+      token: dapi6c5f4f3a6f3b4c4ebe1f3f6681fedff4
+      type: databricks
+  target: dev

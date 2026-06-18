@@ -1,0 +1,5 @@
+{
+    "dbt.perspectiveTheme": "Vaporwave",
+    "python.defaultInterpreterPath": "C:\\Users\\xyz\\PycharmProjects\\DBT\\.venv\\Scripts\\python.exe",
+    "dbt.dbtPythonPath": "C:\\Users\\xyz\\PycharmProjects\\DBT\\.venv\\Scripts\\python.exe"
+}
