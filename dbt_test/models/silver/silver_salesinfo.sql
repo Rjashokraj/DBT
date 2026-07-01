@@ -16,7 +16,7 @@ bronze_products as(
     from
        {{ref('bronze_product')}} 
 ),
-customer as(
+bronze_customer as(
     select
        customer_sk,
        gender

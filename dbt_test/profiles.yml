@@ -8,4 +8,12 @@ dbt_test:
       threads: 1
       token: dapi257eac84c7d6dca798f0885c72e49efe
       type: databricks
+    prod:
+      catalog: dbt_prod
+      host: dbc-dc8fd9d5-69dc.cloud.databricks.com
+      http_path: /sql/1.0/warehouses/c8abe120ba90c443
+      schema: default
+      threads: 1
+      token: dapi257eac84c7d6dca798f0885c72e49efe
+      type: databricks
   target: dev
