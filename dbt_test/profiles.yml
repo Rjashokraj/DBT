@@ -6,6 +6,6 @@ dbt_test:
       http_path: /sql/1.0/warehouses/c8abe120ba90c443
       schema: default
       threads: 1
-      token: dapif6f6e0a71fac6d7c4fb00324cfea07b7
+      token: dapi257eac84c7d6dca798f0885c72e49efe
       type: databricks
   target: dev
